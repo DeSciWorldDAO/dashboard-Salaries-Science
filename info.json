@@ -1,1 +1,20 @@
-
+{"name":"Salaries Science",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Grants like GitCoin grants and Giveth but with the option to allocate a part of donation to dependencies/cites and an obligatory affiliate program for donations to ensure that every branch of science is in the media. Competing servers download dependencies from such sites as crates.io or Semantic Scholar and upload it to Internet Computer blockchain. User info such as payment address is to be retrieved from GitHub (or similar site).",
+"whitePaperLink":"https://github.com/vporton/salaries-science/raw/main/financing-science-algorithm.odt",
+"gallery":[],
+"deleted":false,
+"primaryColor":"#3ea7d3",
+"twitterHandle":"@SalariesScience",
+"coingeckoId":"",
+"snapshotId":"https://xdai.colony.io/colony/science",
+"logo":"https://portonvictor.org/img/ladder.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://science-dao.org/salaries-science/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Ecosystems", "Publishing", "Decentralized funding", "Philanthropy"]
+  }
